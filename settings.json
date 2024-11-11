@@ -1,5 +1,6 @@
 {
     "codec_open_cv": "mp4v",
     "codec_moviepy": "libx264",
-    "convert_to_bgr": false
+    "convert_to_bgr": false,
+    "video_with_audio": false
 }
