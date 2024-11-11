@@ -1,0 +1,4 @@
+{
+    "codec_open_cv": "avc1",
+    "codec_moviepy": "libx264"
+}
